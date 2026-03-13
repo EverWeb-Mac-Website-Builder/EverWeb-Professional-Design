@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/everweb">  
+<a href="https://salidorandee.github.io/.github/everweb-website-builder">  
 <img src="https://img.shields.io/badge/GET_EverWeb-darkgreen?style=for-the-badge&logo=apple" alt="GET EverWeb">  
 </a>  
 </div>  
